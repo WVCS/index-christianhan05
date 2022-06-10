@@ -10,7 +10,7 @@
   
   <div class = "navbar">
   
-  <a href = index.html> Home</a>
+  <a href = "index.html"> Home</a>
   <a href = "Shoes"> Shoes</a>
   <a href = "Justin"> Justin </a>
   <a href = "Flights"> Flights</a>
