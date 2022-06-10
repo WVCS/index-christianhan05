@@ -11,12 +11,12 @@
   <div class = "navbar">
   
   <a href = "index.html"> Home</a>
-  <a href = "Shoes"> Shoes</a>
-  <a href = "Justin"> Justin </a>
-  <a href = "Flights"> Flights</a>
-  <a href = "Food Bev"> Food Bev</a>  
-  <a href = "BTS"> BTS</a>   
-  <a href = "Water Slide"> Water Slide</a>  
+  <a href = "shoes.html"> Shoes</a>
+  <a href = "event.html"> Justin </a>
+  <a href = "flights.html"> Flights</a>
+  <a href = "Food.html"> Food Bev</a>  
+  <a href = "bts.html"> BTS</a>   
+  <a href = "water.html"> Water Slide</a>  
   </div>
 
 </head>
